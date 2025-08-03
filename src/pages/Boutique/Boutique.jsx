@@ -1,6 +1,6 @@
 // src/Shop/Shop.jsx
 import { useEffect, useState } from 'react';
-import { supabase } from '../supabaseClient';
+import { supabase } from '../../supabaseClient';
 import './Shop.css'; // ← سيتم إنشاؤه بعد قليل
 
 export default function Shop() {
